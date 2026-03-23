@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/yourusername/devmem/internal/ai"
+	"github.com/canburaks/devmem/internal/ai"
 )
 
 // WriteMasterDoc writes the human-readable master architecture markdown file.

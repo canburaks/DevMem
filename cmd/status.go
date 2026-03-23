@@ -9,8 +9,8 @@ import (
 	"sort"
 
 	"github.com/spf13/cobra"
-	"github.com/yourusername/devmem/internal/git"
-	"github.com/yourusername/devmem/internal/state"
+	"github.com/canburaks/devmem/internal/git"
+	"github.com/canburaks/devmem/internal/state"
 )
 
 var statusCmd = &cobra.Command{

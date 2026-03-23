@@ -14,11 +14,11 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/yourusername/devmem/internal/ai"
-	"github.com/yourusername/devmem/internal/crawler"
-	"github.com/yourusername/devmem/internal/docs"
-	"github.com/yourusername/devmem/internal/git"
-	"github.com/yourusername/devmem/internal/state"
+	"github.com/canburaks/devmem/internal/ai"
+	"github.com/canburaks/devmem/internal/crawler"
+	"github.com/canburaks/devmem/internal/docs"
+	"github.com/canburaks/devmem/internal/git"
+	"github.com/canburaks/devmem/internal/state"
 )
 
 type Progress struct {

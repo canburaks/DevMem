@@ -1,4 +1,4 @@
-module github.com/yourusername/devmem
+module github.com/canburaks/devmem
 
 go 1.23.0
 

@@ -28,7 +28,7 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
-	"github.com/yourusername/devmem/internal/state"
+	"github.com/canburaks/devmem/internal/state"
 )
 
 var (
