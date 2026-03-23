@@ -19,5 +19,5 @@ checksum:
 
 release:
   github:
-    owner: Surya-sourav
+    owner: canburaks
     name: DevMem
